@@ -1,0 +1,110 @@
+Homework #8
+
+
+Given the following sequence of key-value pairs inserted in order into an initially empty symbol table answer the questions that follow.
+
+
+	{ (H,0), (V,1), (O,2), (R,3), (F,4), (O,5), (R,6), (I,7), (K,8) }
+
+
+What value would a call to size() return?
+
+
+
+
+
+
+
+
+What would a search for O return?
+
+
+
+
+
+
+
+
+What would a search for E return?
+
+
+
+
+
+
+
+
+
+
+
+
+Starting with an empty binary search tree and inserting the following set of keys in the order given will produce a worst-case tree.   Find two other orderings of the keys that also produce a worst-case binary search tree when starting with an empty binary search tree.
+
+
+ 	{D, E, G, I, J, L, T }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Starting with an initially empty binary search tree and inserting the following keys in the order given.  Answer the questions that follow after the key 35 has been deleted.
+
+
+	  {  45, 35, 75, 20, 40, 15, 18, 37, 42, 36 }
+
+
+
+
+What is key of the left child of the node with 45 as its key?
+
+
+
+
+
+
+
+
+
+
+What is the size of the subtree rooted at the node with 36 as its key?
+
+
+
+
+
+
+
+
+
+
+What is the key of the parent node of the node with 20 as its key?
+
+
+
+
+
+
+
+
+
+
+What is the size of the subtree rooted at the node with 40 as its key?

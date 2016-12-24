@@ -1,0 +1,65 @@
+/Helvetica findfont 16 scalefont setfont
+
+72 720 moveto 
+
+/print
+{
+	( ) show
+	100 string
+	cvs
+	show
+} def
+
+/lcm
+{
+	/a exch def
+	/b exch def
+	/va a def
+	/vb b def
+	/i 1 def
+	/j 1 def
+	{
+		a b eq { a print exit } if
+		a b gt {
+			/b i vb mul def
+			/i 1 i add def
+		} if
+		a b lt {
+			/a j va mul def
+			/j 1 j add def
+		} if
+	} loop
+} def
+
+/gcd
+{
+	dup 
+	0 ne
+	{ 
+		dup 
+		3 1 roll 
+		mod 
+		gcd
+	} { pop } ifelse 
+} def
+
+/lcmnv
+{
+	2 copy
+	mul
+	3 1 roll
+	gcd 
+	idiv
+} def
+
+
+9 15 lcmnv 
+print
+4 15 lcmnv 
+print
+3 11 lcmnv 
+print
+9 9 lcmnv
+print
+4200 77616 lcmnv
+print

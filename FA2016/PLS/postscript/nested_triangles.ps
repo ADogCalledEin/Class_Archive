@@ -1,0 +1,56 @@
+/triangle
+% x0 y0 x1 y1 x2 y2  triangle -
+{
+   newpath
+   moveto
+   lineto
+   lineto
+   closepath
+   fill
+   stroke
+}
+def 
+
+/midpoint % take out two points, add em, divide em in half, then move them back on to the stack
+{
+    add 
+    2 div 
+    3 1 roll 
+    add 
+    2 div 
+    2 1 roll
+}def
+
+/nested_triangles
+{
+    7 -1 roll
+    dup 
+    2 mod 
+    0 ne
+      {0.1 0.2 0.5 setrgbcolor}
+      {0.2 1.0 0.8 setrgbcolor}
+      ifelse
+   
+    dup 0 ne
+    {
+        1 sub 7 1 roll
+        6 copy triangle
+        6 copy 
+        2 1 roll
+        4 1 roll
+        midpoint
+        6 2 roll 
+        2 1 roll
+        4 1 roll
+        midpoint
+        8 4 roll 
+        2 1 roll
+        4 1 roll
+        midpoint
+        nested_triangles
+    }if
+}def
+
+6 100 100   300 500   500 200  nested_triangles
+
+showpage

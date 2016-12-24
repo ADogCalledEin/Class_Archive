@@ -1,0 +1,1410 @@
+[21-Sep-2015 20:15:47 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[21-Sep-2015 20:15:47 UTC] PHP Stack trace:
+[21-Sep-2015 20:15:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[21-Sep-2015 20:15:47 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[21-Sep-2015 20:16:15 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[21-Sep-2015 20:16:15 UTC] PHP Stack trace:
+[21-Sep-2015 20:16:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[21-Sep-2015 20:16:15 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[21-Sep-2015 20:16:25 UTC] PHP Warning:  fopen(tmnt/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[21-Sep-2015 20:16:25 UTC] PHP Stack trace:
+[21-Sep-2015 20:16:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[21-Sep-2015 20:16:25 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[21-Sep-2015 20:16:45 UTC] PHP Warning:  fopen(tmnt/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[21-Sep-2015 20:16:45 UTC] PHP Stack trace:
+[21-Sep-2015 20:16:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[21-Sep-2015 20:16:45 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[21-Sep-2015 20:27:39 UTC] PHP Warning:  fopen(princess/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[21-Sep-2015 20:27:39 UTC] PHP Stack trace:
+[21-Sep-2015 20:27:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[21-Sep-2015 20:27:39 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[21-Sep-2015 20:28:01 UTC] PHP Parse error:  syntax error, unexpected '"</h1>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/homework3/movie.php on line 25
+[21-Sep-2015 20:31:19 UTC] PHP Parse error:  syntax error, unexpected 'fgets' (T_STRING) in /home/ubuntu/workspace/homework3/movie.php on line 23
+[21-Sep-2015 20:34:56 UTC] PHP Warning:  fgets() expects at least 1 parameter, 0 given in /home/ubuntu/workspace/homework3/movie.php on line 35
+[21-Sep-2015 20:34:56 UTC] PHP Stack trace:
+[21-Sep-2015 20:34:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[21-Sep-2015 20:34:56 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:35
+[23-Sep-2015 01:28:41 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[23-Sep-2015 01:28:41 UTC] PHP Stack trace:
+[23-Sep-2015 01:28:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[23-Sep-2015 01:28:41 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[23-Sep-2015 01:29:22 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[23-Sep-2015 01:29:22 UTC] PHP Stack trace:
+[23-Sep-2015 01:29:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[23-Sep-2015 01:29:22 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[23-Sep-2015 01:29:33 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[23-Sep-2015 01:29:33 UTC] PHP Stack trace:
+[23-Sep-2015 01:29:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[23-Sep-2015 01:29:33 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[23-Sep-2015 01:30:07 UTC] PHP Warning:  fopen(info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[23-Sep-2015 01:30:07 UTC] PHP Stack trace:
+[23-Sep-2015 01:30:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[23-Sep-2015 01:30:07 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[23-Sep-2015 01:30:15 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[23-Sep-2015 01:30:15 UTC] PHP Stack trace:
+[23-Sep-2015 01:30:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[23-Sep-2015 01:30:15 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[23-Sep-2015 01:30:16 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[23-Sep-2015 01:30:16 UTC] PHP Stack trace:
+[23-Sep-2015 01:30:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[23-Sep-2015 01:30:16 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[23-Sep-2015 01:31:40 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[23-Sep-2015 01:31:40 UTC] PHP Stack trace:
+[23-Sep-2015 01:31:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[23-Sep-2015 01:31:40 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[23-Sep-2015 01:31:59 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[23-Sep-2015 01:31:59 UTC] PHP Stack trace:
+[23-Sep-2015 01:31:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[23-Sep-2015 01:31:59 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[23-Sep-2015 01:32:09 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[23-Sep-2015 01:32:09 UTC] PHP Stack trace:
+[23-Sep-2015 01:32:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[23-Sep-2015 01:32:09 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[23-Sep-2015 01:34:39 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[23-Sep-2015 01:34:39 UTC] PHP Stack trace:
+[23-Sep-2015 01:34:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[23-Sep-2015 01:34:39 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[23-Sep-2015 01:43:49 UTC] PHP Parse error:  syntax error, unexpected 'fresh' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/homework3/movie.php on line 41
+[23-Sep-2015 01:44:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/homework3/movie.php on line 43
+[23-Sep-2015 02:01:30 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/homework3/movie.php on line 225
+[23-Sep-2015 02:01:44 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/homework3/movie.php on line 225
+[23-Sep-2015 02:02:19 UTC] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/homework3/movie.php on line 208
+[23-Sep-2015 02:02:19 UTC] PHP Stack trace:
+[23-Sep-2015 02:02:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[23-Sep-2015 02:02:19 UTC] PHP   2. substr() /home/ubuntu/workspace/homework3/movie.php:208
+[25-Sep-2015 19:07:42 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 19:07:42 UTC] PHP Stack trace:
+[25-Sep-2015 19:07:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 19:07:42 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 19:09:42 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 19:09:42 UTC] PHP Stack trace:
+[25-Sep-2015 19:09:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 19:09:42 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 19:10:34 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 19:10:34 UTC] PHP Stack trace:
+[25-Sep-2015 19:10:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 19:10:34 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 19:10:48 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 19:10:48 UTC] PHP Stack trace:
+[25-Sep-2015 19:10:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 19:10:48 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 19:11:31 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 19:11:31 UTC] PHP Stack trace:
+[25-Sep-2015 19:11:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 19:11:31 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 19:11:45 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 19:11:45 UTC] PHP Stack trace:
+[25-Sep-2015 19:11:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 19:11:45 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 19:11:52 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 19:11:52 UTC] PHP Stack trace:
+[25-Sep-2015 19:11:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 19:11:52 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 19:12:57 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 19:12:57 UTC] PHP Stack trace:
+[25-Sep-2015 19:12:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 19:12:57 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 19:13:45 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 19:13:45 UTC] PHP Stack trace:
+[25-Sep-2015 19:13:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 19:13:45 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 19:14:58 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 19:14:58 UTC] PHP Stack trace:
+[25-Sep-2015 19:14:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 19:14:58 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 19:15:22 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 19:15:22 UTC] PHP Stack trace:
+[25-Sep-2015 19:15:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 19:15:22 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 19:15:39 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 19:15:39 UTC] PHP Stack trace:
+[25-Sep-2015 19:15:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 19:15:39 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 19:15:39 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 19:15:39 UTC] PHP Stack trace:
+[25-Sep-2015 19:15:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 19:15:39 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 19:15:50 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 19:15:50 UTC] PHP Stack trace:
+[25-Sep-2015 19:15:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 19:15:50 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 19:15:50 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 19:15:50 UTC] PHP Stack trace:
+[25-Sep-2015 19:15:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 19:15:50 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 19:16:19 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 19:16:19 UTC] PHP Stack trace:
+[25-Sep-2015 19:16:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 19:16:19 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 19:16:19 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 19:16:19 UTC] PHP Stack trace:
+[25-Sep-2015 19:16:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 19:16:19 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 20:11:46 UTC] PHP Warning:  fopen(tmnt/review0.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 58
+[25-Sep-2015 20:11:46 UTC] PHP Stack trace:
+[25-Sep-2015 20:11:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:11:46 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:58
+[25-Sep-2015 20:11:46 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 63
+[25-Sep-2015 20:11:46 UTC] PHP Stack trace:
+[25-Sep-2015 20:11:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:11:46 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:63
+[25-Sep-2015 20:11:46 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 64
+[25-Sep-2015 20:11:46 UTC] PHP Stack trace:
+[25-Sep-2015 20:11:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:11:46 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:64
+[25-Sep-2015 20:11:46 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 65
+[25-Sep-2015 20:11:46 UTC] PHP Stack trace:
+[25-Sep-2015 20:11:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:11:46 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:65
+[25-Sep-2015 20:11:46 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 66
+[25-Sep-2015 20:11:46 UTC] PHP Stack trace:
+[25-Sep-2015 20:11:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:11:46 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:66
+[25-Sep-2015 20:11:46 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:11:46 UTC] PHP Stack trace:
+[25-Sep-2015 20:11:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:13:23 UTC] PHP Warning:  fopen(tmnt/review0.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 58
+[25-Sep-2015 20:13:23 UTC] PHP Stack trace:
+[25-Sep-2015 20:13:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:13:23 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:58
+[25-Sep-2015 20:13:23 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 63
+[25-Sep-2015 20:13:23 UTC] PHP Stack trace:
+[25-Sep-2015 20:13:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:13:23 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:63
+[25-Sep-2015 20:13:23 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 64
+[25-Sep-2015 20:13:23 UTC] PHP Stack trace:
+[25-Sep-2015 20:13:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:13:23 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:64
+[25-Sep-2015 20:13:23 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 65
+[25-Sep-2015 20:13:23 UTC] PHP Stack trace:
+[25-Sep-2015 20:13:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:13:23 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:65
+[25-Sep-2015 20:13:23 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 66
+[25-Sep-2015 20:13:23 UTC] PHP Stack trace:
+[25-Sep-2015 20:13:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:13:23 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:66
+[25-Sep-2015 20:13:23 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:13:23 UTC] PHP Stack trace:
+[25-Sep-2015 20:13:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:14:14 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:14:14 UTC] PHP Stack trace:
+[25-Sep-2015 20:14:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:14:37 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:14:37 UTC] PHP Stack trace:
+[25-Sep-2015 20:14:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:14:55 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:14:55 UTC] PHP Stack trace:
+[25-Sep-2015 20:14:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:07 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/homework3/movie.php on line 98
+[25-Sep-2015 20:15:07 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fopen(tmnt2/review1.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 58
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:58
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 63
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:63
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 64
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:64
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 65
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:65
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 66
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:66
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 79
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:79
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fopen(tmnt2/review2.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 58
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:58
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 63
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:63
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 64
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:64
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 65
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:65
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 66
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:66
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 79
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:79
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fopen(tmnt2/review3.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 58
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:58
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 63
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:63
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 64
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:64
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 65
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:65
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 66
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:66
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 79
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:79
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fopen(tmnt2/review4.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 58
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:58
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 63
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:63
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 64
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:64
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 65
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:65
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 66
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:66
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 79
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:79
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fopen(tmnt2/review5.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 58
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:58
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 63
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:63
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 64
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:64
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 65
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:65
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 66
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:66
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 79
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:79
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fopen(tmnt2/review6.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 58
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:58
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 63
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:63
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 64
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:64
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 65
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:65
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 66
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:66
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 79
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:79
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fopen(tmnt2/review7.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 87
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:87
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 92
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:92
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 93
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:93
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 94
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:94
+[25-Sep-2015 20:15:13 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 95
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:15:13 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:95
+[25-Sep-2015 20:15:13 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/homework3/movie.php on line 98
+[25-Sep-2015 20:15:13 UTC] PHP Stack trace:
+[25-Sep-2015 20:15:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:18:25 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/homework3/movie.php on line 98
+[25-Sep-2015 20:18:25 UTC] PHP Stack trace:
+[25-Sep-2015 20:18:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fopen(tmnt2/review1.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fopen(tmnt2/review2.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fopen(tmnt2/review3.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fopen(tmnt2/review4.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fopen(tmnt2/review5.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fopen(tmnt2/review6.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fopen(tmnt2/review7.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 98
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:98
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 103
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:103
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 104
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:104
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 105
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:105
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 106
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:106
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 119
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:119
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fopen(tmnt2/review8.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 98
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:98
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 103
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:103
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 104
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:104
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 105
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:105
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 106
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:106
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 119
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:119
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fopen(tmnt2/review9.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 98
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:98
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 103
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:103
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 104
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:104
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 105
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:105
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 106
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:106
+[25-Sep-2015 20:23:57 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 119
+[25-Sep-2015 20:23:57 UTC] PHP Stack trace:
+[25-Sep-2015 20:23:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:23:57 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:119
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fopen(tmnt2/review1.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fopen(tmnt2/review2.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fopen(tmnt2/review3.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fopen(tmnt2/review4.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fopen(tmnt2/review5.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fopen(tmnt2/review6.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fopen(tmnt2/review7.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 98
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:98
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 106
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:106
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 107
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:107
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 108
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:108
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 109
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:109
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 122
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:122
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fopen(tmnt2/review8.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 98
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:98
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 106
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:106
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 107
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:107
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 108
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:108
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 109
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:109
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 122
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:122
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fopen(tmnt2/review9.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 98
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:98
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 106
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:106
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 107
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:107
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 108
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:108
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 109
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:109
+[25-Sep-2015 20:26:22 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 122
+[25-Sep-2015 20:26:22 UTC] PHP Stack trace:
+[25-Sep-2015 20:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:26:22 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:122
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fopen(tmnt2/review1.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fopen(tmnt2/review2.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fopen(tmnt2/review3.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fopen(tmnt2/review4.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fopen(tmnt2/review5.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fopen(tmnt2/review6.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fopen(tmnt2/review7.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 98
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:98
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 106
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:106
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 107
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:107
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 108
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:108
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 109
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:109
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 122
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:122
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fopen(tmnt2/review8.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 98
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:98
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 106
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:106
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 107
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:107
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 108
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:108
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 109
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:109
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 122
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:122
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fopen(tmnt2/review9.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 98
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:98
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 106
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:106
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 107
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:107
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 108
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:108
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 109
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:109
+[25-Sep-2015 20:27:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 122
+[25-Sep-2015 20:27:04 UTC] PHP Stack trace:
+[25-Sep-2015 20:27:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:27:04 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:122
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fopen(tmnt2/review1.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fopen(tmnt2/review2.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fopen(tmnt2/review3.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fopen(tmnt2/review4.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fopen(tmnt2/review5.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fopen(tmnt2/review6.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fopen(tmnt2/review7.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 98
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:98
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 106
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:106
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 107
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:107
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 108
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:108
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 109
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:109
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 122
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:122
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fopen(tmnt2/review8.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 98
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:98
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 106
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:106
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 107
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:107
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 108
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:108
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 109
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:109
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 122
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:122
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fopen(tmnt2/review9.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 98
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:98
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 106
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:106
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 107
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:107
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 108
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:108
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 109
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:109
+[25-Sep-2015 20:28:40 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 122
+[25-Sep-2015 20:28:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:28:40 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:122
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fopen(tmnt2/review1.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fopen(tmnt2/review2.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fopen(tmnt2/review3.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fopen(tmnt2/review4.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fopen(tmnt2/review5.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fopen(tmnt2/review6.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 69
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:69
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 74
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:74
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 75
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:75
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 76
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:76
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 77
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:77
+[25-Sep-2015 20:29:21 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/homework3/movie.php on line 90
+[25-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[25-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:29:21 UTC] PHP   2. fclose() /home/ubuntu/workspace/homework3/movie.php:90
+[25-Sep-2015 20:30:47 UTC] PHP Warning:  fopen(mortalcombat/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 20:30:47 UTC] PHP Stack trace:
+[25-Sep-2015 20:30:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:30:47 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[25-Sep-2015 20:41:40 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[25-Sep-2015 20:41:40 UTC] PHP Stack trace:
+[25-Sep-2015 20:41:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[25-Sep-2015 20:41:40 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[28-Sep-2015 19:41:15 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[28-Sep-2015 19:41:15 UTC] PHP Stack trace:
+[28-Sep-2015 19:41:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[28-Sep-2015 19:41:15 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[28-Sep-2015 19:45:24 UTC] PHP Warning:  trim() expects parameter 1 to be string, resource given in /home/ubuntu/workspace/homework3/movie.php on line 11
+[28-Sep-2015 19:45:24 UTC] PHP Stack trace:
+[28-Sep-2015 19:45:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[28-Sep-2015 19:45:24 UTC] PHP   2. trim() /home/ubuntu/workspace/homework3/movie.php:11
+[28-Sep-2015 19:45:24 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/homework3/movie.php on line 11
+[28-Sep-2015 19:45:24 UTC] PHP Stack trace:
+[28-Sep-2015 19:45:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[28-Sep-2015 19:45:24 UTC] PHP   2. fgets() /home/ubuntu/workspace/homework3/movie.php:11
+[28-Sep-2015 19:45:45 UTC] PHP Warning:  fopen(dtmnt/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[28-Sep-2015 19:45:45 UTC] PHP Stack trace:
+[28-Sep-2015 19:45:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[28-Sep-2015 19:45:45 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[28-Sep-2015 19:45:50 UTC] PHP Warning:  fopen(ttmnt/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[28-Sep-2015 19:45:50 UTC] PHP Stack trace:
+[28-Sep-2015 19:45:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[28-Sep-2015 19:45:50 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4
+[29-Sep-2015 20:04:05 UTC] PHP Warning:  fopen(/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/homework3/movie.php on line 4
+[29-Sep-2015 20:04:05 UTC] PHP Stack trace:
+[29-Sep-2015 20:04:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/homework3/movie.php:0
+[29-Sep-2015 20:04:05 UTC] PHP   2. fopen() /home/ubuntu/workspace/homework3/movie.php:4

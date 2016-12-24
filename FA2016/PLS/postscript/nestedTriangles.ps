@@ -1,0 +1,83 @@
+%!
+
+
+/triangle
+% x0 y0 x1 y1 x2 y2  triangle -
+{
+   newpath
+   moveto
+   lineto
+   lineto
+   closepath
+   stroke
+} def
+
+
+/fill_triangle
+% x0 y0 x1 y1 x2 y2  fill_triangle -
+{
+   newpath
+   moveto
+   lineto
+   lineto
+   closepath
+   fill
+   stroke
+} def
+
+
+/nested_triangles
+% x0 y0 x1 y1 x2 y2 n  nested_triangle -
+{
+    {
+	dup 0 eq {exit} if
+	1 sub
+	7 1 roll
+	4 copy exch 4 1 roll add 2 div 3 1 roll add 2 div exch 8 2 roll
+	4 2 roll 6 2 roll
+	4 copy exch 4 1 roll add 2 div 3 1 roll add 2 div exch 8 2 roll 
+	6 2 roll
+	4 copy exch 4 1 roll add 2 div 3 1 roll add 2 div exch 8 2 roll
+	triangle
+	7 6 roll
+    }loop	
+} def
+
+0.8 0.5 0.7 setrgbcolor
+%50 100   500 150   300 600  6 nested_triangles
+
+/nested_color_triangles
+% x0 y0 x1 y1 x2 y2 n  nested_triangle -
+{
+    {
+	dup 0 eq {exit} if
+	dup 2 mod 0 eq {0.6 0.3 0.2 setrgbcolor} {0.0 1 0.0 setrgbcolor} ifelse
+	1 sub
+	7 1 roll
+	4 copy exch 4 1 roll add 2 div 3 1 roll add 2 div exch 8 2 roll
+	4 2 roll 6 2 roll
+	4 copy exch 4 1 roll add 2 div 3 1 roll add 2 div exch 8 2 roll 
+	6 2 roll
+	4 copy exch 4 1 roll add 2 div 3 1 roll add 2 div exch 8 2 roll
+	fill_triangle
+	7 6 roll
+    }loop	
+} def
+
+0.8 0.5 0.7 setrgbcolor
+20 100   600 100   20 700  6 nested_color_triangles
+
+
+/nested_triangle_fractal
+% x0 y0 x1 y1 x2 y2 n  nested_triangle_fractal -
+{
+    {
+	dup 0 eq {triangle} if
+	%change points
+	%call nested_triangle_fractal
+	%change points
+	%call nested_triangle_fractal
+	%change points
+	%call nested_triangle_fractal
+    }	
+} def

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ASCIImation</title>
+        <link rel="stylesheet" href="ascii.css" type="text/css" />
+        <meta charset="UTF-8">
+    </head>
+    
+    <body>
+        <h1>ASCII ANIMATION VIEWER</h1>
+        <div id="frame">
+            <textarea id="stage" rows="20" cols="80"></textarea>
+            <div id="controls">
+                <fieldset>
+                <legend>Play Controls:</legend>
+                <button id="Start" onclick="togglePlay()">START</button>
+                <button disabled id="Stop" onclick="togglePlay()">STOP</button>
+                </fieldset>
+                <fieldset>
+                    <legend>Animation:</legend>
+                    <select id="animation" onchange="switchAnimation()">
+                    <option value="EXERCISE">Exercise</option>
+                    <option value="JUGGLER">Juggler</option>
+                    <option value="BIKE">Bike</option>
+                    <option value="DIVE">Dive</option>
+                    <option value="CUSTOM">CUSTOM</option>
+                    </select>
+                </fieldset>
+                <fieldset>
+                    <legend>SIZE:</legend>
+                    <select id="fontsize" onchange="fontSizeChange()">
+                    <option value="Tiny">Tiny</option>
+                    <option value="Medium">Medium</option>
+                    <option value="Large" selected>Large</option>
+                    <option value="ExtraLarge">Extra Large</option>
+                    <option value="XXL">XXL</option>
+                    </select>
+                </fieldset>
+                <fieldset>
+                    <legend>SPEED:</legend>
+                    <input type="radio" name="speed" value="100" onclick="speedChange()">Turbo
+                    <input type="radio" name="speed" value="250" checked onclick="speedChange()">Normal
+                    <input type="radio" name="speed" value="1500" onclick="speedChange()">Slow-Mo
+                </fieldset>
+            </div>
+            <div id="w3c">
+				<a href="https://webster.cs.washington.edu/validate-html.php"><img src="https://webster.cs.washington.edu/images/w3c-html.png" alt="Valid HTML5" /></a>
+				<a href="https://webster.cs.washington.edu/validate-css.php"><img src="https://webster.cs.washington.edu/images/w3c-css.png" alt="Valid CSS" /></a>
+				<a href="https://webster.cs.washington.edu/jslint/?referer"><img src="https://webster.cs.washington.edu/images/w3c-js.png" alt="Valid JS" /></a>
+			</div>
+        </div>
+    
+    <script src="https://webster.cs.washington.edu/js/asciimation/animations.js"></script>
+    <script src="https://webster.cs.washington.edu/js/asciimation/gallery.js"></script>
+    <script src="myanimation.js"></script>
+    <script src="ascii.js"></script>
+    
+    </body>
+</html>

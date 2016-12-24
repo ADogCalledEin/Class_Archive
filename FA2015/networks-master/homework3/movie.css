@@ -1,0 +1,174 @@
+body {
+	background-image: url("https://webster.cs.washington.edu/images/moviebg.png");
+	font-family: "Verdana", Tahoma, Sans-Serif;
+	font-size: 8pt;
+
+}
+
+h1{
+	font-family: "Verdana", Tahoma, Sans-Serif;
+	font-size: 24pt;
+	text-shadow: 3px 3px  #999999;
+	text-align: center;
+	font-weight: bold;
+}
+
+dl{
+	font-family: "Arial", Sans-Serif;
+	font-size: 8pt;
+	padding: 10px;
+}
+
+dt{
+	font-weight: bold;
+}
+
+dd{
+	padding-bottom: 10px;
+}
+
+
+#contentright{
+	float: right;
+	width: 44%;
+	margin-right: 20px;
+}
+
+#contentleft{
+	float: left;
+	width: 44%;
+	margin-left: 20px;
+	
+}
+
+.quote{
+	font-size: 8pt;
+	font-weight: bold;
+	border: 2px solid gray;
+	background-color: #E8DC9B;
+	margin-top: 25px;
+	padding: 2px;
+	clear: left;
+	/*width: 100%;*/
+}
+
+.quote img{
+	float: left;
+	position: relative;
+	clear: left;
+}
+
+.critic {
+	font-size: 8pt;
+	font-weight: normal;
+	float: left;
+	margin-bottom: 20px;
+	width: 100%;
+}
+
+.critic img{
+	float: left;
+	margin-right: 5px;
+}
+
+.publisher{
+	font-style: italic;
+	clear: both;
+}
+
+#description{
+	width: 250px;
+	clear: right;
+	float: right;
+	background-color: #A2B964;
+	background-repeat: repeat-y;
+	position: relative;
+	margin-top: 0;
+
+}
+
+.box{
+	width: 800px;
+	border: 4px solid gray;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+}
+
+.floatright{
+	float: right;
+	clear: right;
+}
+
+.floatleft{
+	float: left;
+}
+
+#floatright img{
+	float: right;
+	margin: 0;
+}
+
+
+
+#bottombar{
+	text-align: center;
+	background-color: #A2B964;
+	clear: both;
+}
+
+#bottombar p{
+	margin: 0;
+}
+
+#contentmain{
+	float: left;
+	width: 550px;
+	vertical-align: middle;
+	position: relative;
+}
+
+.bghead{
+	background-image: url("https://webster.cs.washington.edu/images/rancidbannerbg.png");
+	background-repeat: repeat-x;
+	margin: 0;
+	clear: right;
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.contenttitle{
+	background-image: url("https://webster.cs.washington.edu/images/rottenlargebg.png");
+	background-repeat: repeat-x;
+	height: 83px;
+	
+}
+
+.rotten{
+	color: red;
+	font-weight: bold;
+	font-size: 48pt;
+	background-image: url("https://webster.cs.washington.edu/images/rottenlarge.png");
+	background-repeat: no-repeat;
+	padding-left: 100px;
+}
+.fresh{
+	color: red;
+	font-weight: bold;
+	font-size: 48pt;
+	background-image: url("https://webster.cs.washington.edu/images/freshlarge.png");
+	background-repeat: no-repeat;
+	padding-left: 100px;
+}
+
+.clear{
+	clear: both;
+}
+
+

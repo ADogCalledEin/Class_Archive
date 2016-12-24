@@ -1,0 +1,27 @@
+package notes;
+
+public class Animal {
+
+	private final String name;
+	
+	public Animal(String nm) {
+		name=nm;
+	}
+
+	/// bad equals implementation
+	// dont use instanceof, instead use the getClass() method
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj) return true;
+		if (obj == null) return false;
+		if (obj instanceof Animal) {
+			Animal that = (Animal)obj;
+			if (this.name != that.name) return false;
+			return true;
+		}
+		return false;
+	}
+	
+	
+	
+}

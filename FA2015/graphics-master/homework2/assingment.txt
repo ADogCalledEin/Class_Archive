@@ -1,0 +1,27 @@
+To be able to read the xy files and draw the figure
+
+double x[1000], y[1000];
+
+scanf("%d" &numpoints);
+for (i=0; i< numpoints; i++){
+	scanf("%f %f", &x[i], &y[i]);
+
+}
+------
+scanf("%d" &numpolys);
+for(i=0; i < numpolys; i++){
+	??
+}
+
+------
+
+for(i=0; i < numpolys; i++){
+	scanf("%d %f %f", &red, &green, &blue);
+}
+
+------
+draw it
+
+./a.out < dog.xy  <-input redirection
+
+./a.out > pig.xy <-output redirection

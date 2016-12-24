@@ -1,0 +1,148 @@
+/draw_line
+{
+   newpath
+   moveto
+   lineto
+   stroke
+}
+def
+
+%x0 x1 third
+/third
+{
+  3 1 roll  % third x0 x1
+  1 index   % third x0 x1 x0
+  sub       % third x0 (x1-x0)
+  3 2 roll  % x0 (x1-x0) third
+  3
+  div       % x0 (x1 - x0) third/3
+  mul
+  add
+} def
+
+% x0 y0 x1 y1 points
+/points
+{
+  3 index
+  2 index
+  1
+  third
+  3 index
+  2 index
+  1
+  third
+
+  % x0 y0 x1 y1 xa ya
+  5 index
+  4 index
+  2
+  third
+
+  % x0 y0 x1 y1 xa ya xb
+  5 index
+  4 index
+  2
+  third
+
+  % x0 y0 x1 y1 xa ya xb yb
+  1 index
+  4 index
+  sub
+  2
+  div
+
+  % x0 y0 x1 y1 xa ya xb yb (xb - xa)/2
+  4 index
+  add
+
+  % x0 y0 x1 y1 xa ya xb yb ((xb - xa)/2 + xa)
+  1 index
+  4 index
+  sub
+  sub
+
+  % x0 y0 x1 y1 xa ya xb yb xc
+  1 index
+  4 index
+  sub
+  2
+  div
+
+  % x0 y0 x1 y1 xa ya xb yb xc ((yb - ya)/2)
+  4 index
+  add
+
+  % x0 y0 x1 y1 xa ya xb yb xc (((yb - ya)/2) + ya)
+  3 index
+  6 index
+  sub
+  add
+
+  % x0 y0 x1 y1 xa ya xb yb xc yc
+  8 6 roll
+
+  % x0 y0 xa ya xb yb xc yc x1 y1
+  6 4 roll
+
+  % x0 y0 xa ya xc yc x1 y1 xb yb
+  4 2 roll
+
+  % x0 y0 xa ya xc yc xb yb x1 y1
+}
+def
+
+/koch{
+  dup 1 eq{
+    pop
+    draw_line
+  }
+  {
+    1
+    sub
+    5 1 roll
+    % 4 copy
+    points
+    % d-1 x0 y0 xa ya xc yc xb yb x1 y1
+
+    3 index
+    % d-1 x0 y0 xa ya xc yc xb yb x1 y1 xb
+    3 index
+    % d-1 x0 y0 xa ya xc yc xb yb x1 y1 xb yb
+    4 2 roll
+    12 index
+    % d-1 x0 y0 xa ya xc yc xb yb x1 y1 xb yb d-1
+    koch
+
+    % d-1 x0 y0 xa ya xc yc xb yb
+    3 index
+    3 index
+    % d-1 x0 y0 xa ya xc yc xb yb xc yc
+    4 2 roll
+    10 index
+    % d-1 x0 y0 xa ya xc yc xb yb xc yc d-1
+    koch
+
+    % d-1 x0 y0 xa ya xc yc
+    3 index
+    3 index
+    4 2 roll
+    8 index
+    % d-1 x0 y0 xa ya xc yc xa ya d-1
+    koch
+
+    % d-1 x0 y0 xa ya
+    5 4 roll
+    koch
+
+  }
+  ifelse
+}
+def
+
+144 144 432 144 5 koch
+432 144 432 600 5 koch
+432 600 144 600 5 koch
+144 600 144 144 5 koch
+
+%kshow
+%makefont - transformation matrix

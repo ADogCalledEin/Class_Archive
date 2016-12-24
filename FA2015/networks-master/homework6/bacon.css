@@ -1,0 +1,50 @@
+#banner, #w3c {
+    background-image: url(https://webster.cs.washington.edu/images/kevinbacon/banner-background.png);
+    text-align: left;
+    color: white;
+    font-weight: bold;
+    padding: 1em;
+}
+
+body {
+    font: 12pt Verdana, sans-serif gray;
+    text-align: center;
+    background-color: #dad9d4;
+    margin: 0 auto;
+}
+
+form {
+    width: 24em;
+    padding: 1em;
+    margin: 0 auto;
+}
+
+legend {
+    text-align: left;
+}
+
+#frame {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+#main {
+    background-color: white;
+    padding: 1em;
+}
+
+table {
+    border: solid 1px gray;
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 80%;
+}
+
+table tr:nth-child(even) {
+   background-color: #dad9d4;
+}
+
+tr, td {
+    margin: 0;
+    padding: 3px;
+}

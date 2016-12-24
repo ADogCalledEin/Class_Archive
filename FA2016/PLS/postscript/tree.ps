@@ -1,0 +1,86 @@
+
+/color true def             % set true if you want color, false if just lines
+/originx 375 def            % set the x origin of the first shape
+/originy 600 def            % set the y origin of the first shape
+/in { 72 mul } bind def     % defining an inch on a page, which is 72 pixels
+/size { 1 in } bind def     % defining how big the size of the first shape should be
+/sqrt2 1.41421356237310 def % rather than recalculate a shitton, do this
+/limit 1 def               % how small the shapes are allowed to become
+/r 0 def /g 0 def /b 1 def  % starting RGB values (can be changed to swithc the jumble up)
+/shape {                % drawing the base shape
+  newpath             % size
+  0 0                 % size 0 0
+  moveto              % size  
+  dup                 % size size
+  0 rlineto           % size
+  dup                 % size size
+  0                   % size size 0
+  exch                % size 0 size
+  rlineto             % size
+  dup                 % size size
+  0.5 mul             % size (size/2)
+  dup                 % size (size/2) (size/2)
+  dup                 % size (size/2) (size/2) (size/2)
+  -1 mul              % size (size/2) (size/2) -(size/2)
+  exch                % size (size/2) -(size/2) (size/2) 
+  rlineto             % size (size/2)
+  -1 mul              % size -(size/2)
+  dup                 % size -(size/2) -(size/2)
+  rlineto             % size
+  closepath           % size
+
+  color
+  {                   % this jumbles the colors for me, swapping r/b b/g g/r
+    r g b setrgbcolor % size
+    fill              % size
+    r g b             % size c1 c2 c3
+    /r exch def       % size c1 c2
+    /b exch def       % size c1
+    /g exch def       % size
+  }
+  { stroke }          % if you set color to false then just outline everything
+  ifelse
+  
+  dup                 % size size
+  limit gt {          % if the size is greater than the limit, make the size the size of a leading edge
+    gsave             % save the current state so nothing gets overwritten
+    dup               % size size
+    dup               % size size size
+    sqrt2             % size size size sqrt2
+    div               % size size (size / sqrt2)
+    exch              % size (size / sqrt2) size
+    0                 % size (size / sqrt2) size 0
+    exch              % size (size / sqrt2) 0 size
+    translate         % move to new starting point in device space
+    45 rotate         % rotate the plane of reference to start next shape
+    shape             % LEFT SHAPE
+    grestore          % push the old graphics state back in to do the other side
+    gsave             % save the state with the new iteration saved
+    dup               % size size
+    sqrt2             % size size sqrt2
+    div               % size (size / sqrt2)
+    exch              % (size / sqrt2) size
+    2 div             % (size / sqrt2) (size / 2)
+    dup               % (size / sqrt2) (size / 2) (size / 2)
+    3 mul             % (size / sqrt2) (size / 2) ((size / 2) * 3)
+    translate         % (size / sqrt2)    moving to new start point 
+    315 rotate        % rotate to new plane of reference to start new shape
+    shape             % RIGHT SHAPE comment out to see the path of the recursion
+    grestore          % restore the old state
+  }
+  { pop } ifelse      % if the limit has been reached pop off the truth value and end the drawing
+} def
+                % have to redefine device space back to user space so it looks like we think it does
+originx         % originx
+1.5             % originx 1.5
+in              % originx 108
+sub             % (originx - 108) 
+originy         % (originx - 108) originy
+2 div           % (originx - 108) (originy / 2)
+size            % (originx - 108) (originy / 2) size
+2 div           % (originx - 108) (originy / 2) (size / 2)
+sub             % (originx - 108) ((originy / 2) - (size / 2))
+translate       % move to this new reference area
+size shape      % now start the drawing
+
+showpage

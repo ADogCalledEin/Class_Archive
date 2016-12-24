@@ -1,0 +1,27 @@
+/Helvetica findfont 16 scalefont setfont
+
+72 720 moveto 
+
+/print
+{
+	( ) show
+	100 string
+	cvs
+	show
+} def
+
+/prime 
+{
+	/n exch def
+	/i 2 def
+	{
+		i n eq { true print exit } if
+		n i mod 0 eq { false print exit } if
+		/i 1 i add def
+	} loop
+} def
+
+5 prime
+19 prime
+143 prime
+1979 prime

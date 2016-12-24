@@ -1,0 +1,155 @@
+/Helvetica findfont 16 scalefont setfont
+
+72 720 moveto
+
+/print
+{
+	( ) show
+	100 string
+	cvs
+	show
+} def
+
+/line
+{
+	newpath
+	moveto
+	lineto
+	stroke
+} def
+
+%x1 x0 third
+/third
+{
+  3 1 roll  % third x1 x0
+  1 index   % third x1 x0 x1
+  sub       % third x1 (x0-x1)
+  3 2 roll  % x1 (x0-x1) third
+  3
+  div       % x1 (x0 - x1) third/3
+  mul
+  add
+} def
+
+% x1 y1 x0 y0 points
+/points
+{
+  3 index
+  2 index
+  1
+  third
+  3 index
+  2 index
+  1
+  third
+
+  % x1 y1 x0 y0 xa ya
+  5 index
+  4 index
+  2
+  third
+
+  % x1 y1 x0 y0 xa ya xc
+  5 index
+  4 index
+  2
+  third
+
+  % x1 y1 x0 y0 xa ya xc yc
+  1 index
+  4 index
+  sub
+  2
+  div
+
+  % x1 y1 x0 y0 xa ya xc yc (xc - xa)/2
+  4 index
+  add
+
+  % x1 y1 x0 y0 xa ya xc yc ((xc - xa)/2 + xa)
+  1 index
+  4 index
+  sub
+  sub
+
+  % x1 y1 x0 y0 xa ya xc yc xb
+  1 index
+  4 index
+  sub
+  2
+  div
+
+  % x1 y1 x0 y0 xa ya xc yc xb ((yc - ya)/2)
+  4 index
+  add
+
+  % x1 y1 x0 y0 xa ya xc yc xb (((yc - ya)/2) + ya)
+  3 index
+  6 index
+  sub
+  add
+
+  % x1 y1 x0 y0 xa ya xc yc xb yb
+  8 6 roll
+
+  % x1 y1 xa ya xc yc xb yb x0 y0
+  6 4 roll
+
+  % x1 y1 xa ya xb yb x0 y0 xc yc
+  4 2 roll
+
+  % x1 y1 xa ya xb yb xc yc x0 y0
+}
+def
+
+/koch{
+  dup 1 eq{
+    pop
+    line
+  }
+  {
+    1
+    sub
+    5 1 roll
+    % 4 copy
+    points
+    % depth x1 y1 xa ya xb yb xc yc x0 y0
+
+    3 index
+    % depth x1 y1 xa ya xb yb xc yc x0 y0 xc
+    3 index
+    % depth x1 y1 xa ya xb yb xc yc x0 y0 xc yc
+    4 2 roll
+    12 index
+    % depth x1 y1 xa ya xb yb xc yc x0 y0 xc yc depth
+    koch
+
+    % depth x1 y1 xa ya xb yb xc yc
+    3 index
+    3 index
+    % depth x1 y1 xa ya xb yb xc yc xb yb
+    4 2 roll
+    10 index
+    % depth x1 y1 xa ya xb yb xc yc xb yb depth
+    koch
+
+    % depth x1 y1 xa ya xb yb
+    3 index
+    3 index
+    4 2 roll
+    8 index
+    % depth x1 y1 xa ya xb yb xa ya depth
+    koch
+
+    % depth x1 y1 xa ya
+    5 4 roll
+    koch
+
+  }
+  ifelse
+}
+def
+
+
+200 200 400 600 0 koch
+showpage

@@ -1,0 +1,9 @@
+Lab1
+-----
+
+A polygon has been clicked (maybe using the program we created), could be anywhere between 1 and 1000 points. We want to fill it. It is non normal.
+
+As we move the x axis up, we want to draw the sections the x axis crosses and skip the sections that aren't part of the shape. Then raise the value of y by 1, and then do the process all over again. 
+
+Once the logic is down, a loop will suffice for the rest of the thing. 
+

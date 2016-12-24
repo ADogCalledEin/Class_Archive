@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+django-blog
+db.sqlite3
+/static
+.DS_Store
